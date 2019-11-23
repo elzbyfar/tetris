@@ -288,14 +288,10 @@ document.addEventListener('keydown', event => {
     } else if (event.keyCode === 39) {
         playerMove(1);
     } else if (event.keyCode === 40) {
-        dropInterval = 125;
+        dropInterval = 2;
         playerDrop();
-        // dropInterval = (playerReset())
     } else if (event.keyCode === 38) {
         playerRotate(-1);
-    } else if (event.keyCode === 32) {
-        dropInterval = 3;
-        playerDrop();
     }
 });
 
