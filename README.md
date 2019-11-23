@@ -10,6 +10,12 @@ After downloading or cloning this repository, open the 'index.html' file. The ga
 
 The latest Google Chrome or Mozilla Firefox.
 
+### Goals
+
+    * Create levels based on score (100 pts).
+    * For each level speed raises by (100ms).
+    *
+
 ## Contributing
 
 n/a
