@@ -7,13 +7,9 @@ The timeless classic, with some quirky new pieces.
 After downloading or cloning this repository, open the 'index.html' file. The game should start automatically. Gameplay uses the the 4 directional keys. Up-Key will rotate the active piece counter-clockwise. Left and Right keys will shift the piece one step in either direction. Lastly the Down-Key will commit to the placement of the piece. 
 
 ### Prerequisites
-??????????????
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
-??????????????
+The latest Google Chrome or Mozilla Firefox.
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
