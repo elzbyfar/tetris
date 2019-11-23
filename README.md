@@ -22,6 +22,9 @@ The latest Google Chrome or Mozilla Firefox.
    * If down key is pressed once the piece should be lowered a bit faster than standard speed.
    * If down key is double tapped, piece drops all the way and commits to its location.
    * Include a "Next Piece" display on the screen.
+   * Initial splash screen.
+   * Take player name before start game.
+   * Archive top 10 scores and player names. 
 
 ## Contributing
 
